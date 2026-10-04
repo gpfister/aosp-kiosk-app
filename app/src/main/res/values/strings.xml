@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">GPKiosk</string>
+    <string name="hello_world">Hello, World !</string>
+    <string name="force_app_crash">Force app crash</string>
+</resources>

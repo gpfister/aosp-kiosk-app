@@ -1,0 +1,49 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+.run/
+*.iml
+*.ipr
+*.iws
+out/
+captures/
+.navigation/
+.externalNativeBuild/
+.cxx/
+*.hprof
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Android build artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+output-metadata.json
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Logs
+*.log
+
+# Signing
+*.jks
+*.keystore
+google-services.json
+
+# Other editors
+.vscode/
+.fleet/
+
+# OS
+.DS_Store
+Thumbs.db
